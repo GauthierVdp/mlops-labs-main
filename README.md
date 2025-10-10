@@ -1,6 +1,6 @@
 # Machine Learning Operations - Lab assignments
 
-- Student name: NAME
+- Student name: Gauthier Vandeputte
 - Repository URL: <https://github.com/HOGENT-MLOps/USERNAME/REPO>
 
 This repository contains the lab assignments for the course Machine Learning Operations, which is part of the [Bachelor Applied Computer Science programme](https://www.hogent.be/opleidingen/bachelors/toegepaste-informatica/) at [HOGENT](https://www.hogent.be/).
