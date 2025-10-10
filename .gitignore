@@ -1,0 +1,11 @@
+# VS Code settings and stuff
+.vscode
+
+# Node.js app dependencies and related files
+node_modules/
+
+# Python virtual environments
+venv/
+
+# Model files
+model_repository/
