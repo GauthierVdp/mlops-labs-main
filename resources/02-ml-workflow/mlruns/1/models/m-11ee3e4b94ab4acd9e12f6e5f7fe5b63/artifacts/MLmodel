@@ -1,0 +1,20 @@
+artifact_path: file:C:/Users/skull/OneDrive/Desktop/HoGentC3S1/Machine Learning Operations/mlops-labs-main/mlops-labs-main/resources/02-ml-workflow/mlruns/1/models/m-11ee3e4b94ab4acd9e12f6e5f7fe5b63/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.3
+mlflow_version: 3.5.1
+model_id: m-11ee3e4b94ab4acd9e12f6e5f7fe5b63
+model_size_bytes: 14868218
+model_uuid: m-11ee3e4b94ab4acd9e12f6e5f7fe5b63
+prompts: null
+run_id: 54694746eb2e4580a40e8fc84f9da3c1
+utc_time_created: '2025-10-25 21:32:19.996913'

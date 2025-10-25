@@ -1,6 +1,9 @@
-keras==3.5.0
+tensorflow==2.20.0
+keras==3.10.0
 mlflow==2.16.0
 prefect==3.0.1
 psutil==6.0.0
 requests==2.32.3
-tensorflow==2.17.0
+
+# Disable pyarrow on Windows
+pyarrow; sys_platform != "win32"

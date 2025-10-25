@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/626930826593150469/25e634796a7b42b49f3d9dabbb51a3c8/artifacts
+end_time: 1761341505723
+entry_point_name: ''
+experiment_id: '626930826593150469'
+lifecycle_stage: active
+run_id: 25e634796a7b42b49f3d9dabbb51a3c8
+run_name: gentle-mole-447
+run_uuid: 25e634796a7b42b49f3d9dabbb51a3c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761341499602
+status: 4
+tags: []
+user_id: skull
