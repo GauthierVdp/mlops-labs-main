@@ -8,14 +8,21 @@
 ## Assignment description
 
 In dit labo leren we een Simpele Machine Learning workflow optestellen met Prefect. We loggen metrics en artifects met MLFlow + het maken van voorspellingen met een gemaakt model.
-
 ## Proof of work done
+
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20223211.png)
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20232030.png)
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20232448.png)
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-25%20000822.png)
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-27%20124906.png)
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-27%20170810.png)
+
 | Taak | Bewijs / Screenshot van | Commando / Actie |
 |------|------------------------|------------------|
 |naar de juiste directory gaan|x|`cd resources/02-ml-workflow`|
 |opstellen van een virtuele enviroment|x|`python -m venv venv`|
 |opstarten van ded virtuele enviroment|x|`venv\Scripts\Activate.ps1`|
-|installeren van lle dependencies|x|`pip install -r requirements.txt`|
+|installeren van alle dependencies|x|`pip install -r requirements.txt`|
 |opstarten van de prefect server|x|`prefect server start`|
 |installeren van mlflow|x|`pip install mlflow`|
 |opstarten van de mlflow server|x|`python -m mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ".\resources\02-ml-workflow\mlruns" --host 127.0.0.1 --port 5000`|
