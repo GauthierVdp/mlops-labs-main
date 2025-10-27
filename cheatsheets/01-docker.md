@@ -1,7 +1,7 @@
 # Cheat sheets and checklists
 
 - Student: Gauthier Vandeputte
-- GitHub repo: URL
+- GitHub repo: [URL](https://github.com/GauthierVdp/mlops-labs-main)
 
 ---
 
