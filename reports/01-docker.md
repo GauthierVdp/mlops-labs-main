@@ -2,8 +2,8 @@
 
 ## Student information
 
-- Student naam: 
-- Student code: 
+- Student naam: Gauthier Vandeputte
+- Student code: 202397621
 
 ## Assignment description
 

@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/626930826593150469
-creation_time: 1761340580876
-experiment_id: '626930826593150469'
-last_update_time: 1761340580876
-lifecycle_stage: active
-name: fruit-classification
