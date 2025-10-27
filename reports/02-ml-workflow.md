@@ -9,13 +9,16 @@
 
 In dit labo leren we een Simpele Machine Learning workflow optestellen met Prefect. We loggen metrics en artifects met MLFlow + het maken van voorspellingen met een gemaakt model.
 ## Proof of work done
-
+### prefect
 ![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20223211.png)
+### mlflow
 ![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20232030.png)
 ![](./img/02-ml-workflow/Schermafbeelding%202025-10-24%20232448.png)
 ![](./img/02-ml-workflow/Schermafbeelding%202025-10-25%20000822.png)
-![](./img/02-ml-workflow/Schermafbeelding%202025-10-27%20124906.png)
 ![](./img/02-ml-workflow/Schermafbeelding%202025-10-27%20170810.png)
+
+### detectie van appelsien
+![](./img/02-ml-workflow/Schermafbeelding%202025-10-27%20124906.png)
 
 | Taak | Bewijs / Screenshot van | Commando / Actie |
 |------|------------------------|------------------|
@@ -59,4 +62,4 @@ Het opstellen van de MLFlow ging redelijk vlot.
 Ik heb vooral geleerd hoe je MLFlow moest gebruiken en dat het een handig tool is voor later.
 
 ### What would I do differently?
-/
+meer controlleren van welke versies van de venv want ik zat vaak in de problemen met welke versie van python ik gebruik.
