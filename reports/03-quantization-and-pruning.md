@@ -117,11 +117,11 @@ De bestandsgrootte van de verschillende modellen wordt vergeleken. Het originele
 
 De modellen worden gecomprimeerd met gzip. Het originele baseline-model gaat van 271 KB naar ongeveer 233 KB. Het geprunde, maar niet-gequantizeerde model verkleint van 97 KB naar ongeveer 78 KB. Dit laat zien dat pruning en compressie samen het model nog compacter maken, terwijl quantization meestal het grootste effect op de bestandsgrootte heeft.
 
+Tot slot meten we hoe goed de geprunde modellen presteren op de testdata. Eerst wordt de nauwkeurigheid van het geprunde Keras-model berekend, daarna van het model dat zowel gepruned als gequantizeerd is in TFLite-formaat. Zo kunnen we vergelijken hoeveel impact pruning en quantization hebben gehad op de prestaties van het model.
+
 ---
 
-### Nauwkeurigheid van geprunde modellen
 
-Tot slot meten we hoe goed de geprunde modellen presteren op de testdata. Eerst wordt de nauwkeurigheid van het geprunde Keras-model berekend, daarna van het model dat zowel gepruned als gequantizeerd is in TFLite-formaat. Zo kunnen we vergelijken hoeveel impact pruning en quantization hebben gehad op de prestaties van het model.
 
 ### 1.6 Show that you wrote an elaborate lab report in Markdown and pushed it to the repository.
 
